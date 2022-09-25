@@ -1,0 +1,12 @@
+{
+  "name": "yarn",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^20.2.0"
+  }
+}
